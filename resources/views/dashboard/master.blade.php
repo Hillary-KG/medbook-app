@@ -14,8 +14,8 @@
 
 
     <title>Medbook App Dashboard</title>
-    <link rel="apple-touch-icon" href="{{ asset ('app-assets/images/ico/apple-icon-120.png') }}">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset ('app-assets/images/ico/icon.png') }}">
+    <link rel="apple-touch-icon" href="{{ asset ('img/logo.png') }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset ('img/logo.png') }}">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600" rel="stylesheet">
 
     <!-- BEGIN: Vendor CSS-->
